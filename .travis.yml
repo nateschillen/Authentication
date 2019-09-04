@@ -10,4 +10,4 @@ deploy:
   skip_cleanup: true
   provider: firebase
   token: $FIREBASE_TOKEN
-  project: fir-test-c2112
+  project: authentication-c398a
