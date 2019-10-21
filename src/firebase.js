@@ -3,13 +3,13 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const config = {
-  apiKey: "AIzaSyDvpGVFk30U3lhefZX-mGCjvQiXSddH25s",
-  authDomain: "authentication-c398a.firebaseapp.com",
-  databaseURL: "https://authentication-c398a.firebaseio.com",
-  projectId: "authentication-c398a",
-  storageBucket: "",
-  messagingSenderId: "815408671129",
-  appId: "1:815408671129:web:220f040305c6f8bae6cb08"
+  apiKey: "AIzaSyD7l-DI2v2is4HO1q-xXi93w0KL84c5MtA",
+  authDomain: "album-4f489.firebaseapp.com",
+  databaseURL: "https://album-4f489.firebaseio.com",
+  projectId: "album-4f489",
+  storageBucket: "album-4f489.appspot.com",
+  messagingSenderId: "21688066510",
+  appId: "1:21688066510:web:faa9b7829887a05fe0cb9f"
 };
 
 firebase.initializeApp(config);
